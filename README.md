@@ -1,40 +1,15 @@
-# Introduction to Prompt Engineering
+# Prompt Engineering
 
-This course teaches you how to craft effective prompts, no developer experience required.
+<img src="https://raw.githubusercontent.com/anton-roos/ai-skills/refs/heads/main/images/hollard_octocat_professor.png" align="right" height="150px" />
 
-## 🚀 Getting Started
+Purple Greetings anton-roos!
 
-**The exercise is currently initializing...** ⏳
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💜
 
-When you first visit this repository, GitHub Actions is automatically setting up your personalized learning environment. This process takes about 20-30 seconds.
+Open up the following links in new tabs.
 
-**Please refresh this page every few seconds until you see:**
-- A "**Go to Exercise**" button 
-- A "**Go to Codespace**" button
-
-Once these buttons appear, open "**Go to Exercise** and **Go to Codespace**" in new tabs to begin your prompt engineering journey!
-
----
-
-## 📚 What You'll Learn (Once Exercise Starts)
-
-This hands-on course covers:
-
-- **Zero-shot prompting**: Direct instructions without examples
-- **Few-shot prompting**: Learning from examples  
-- **Chain-of-thought reasoning**: Step-by-step problem solving
-- **Prompt optimization**: Iterating and improving your prompts
-- **Best practices**: Professional prompt engineering techniques
-
-## 🔄 If You Don't See Exercise Buttons
-
-If this page still shows initialization content after 60 seconds:
-
-1. **Refresh the page** (Ctrl+F5 or Cmd+Shift+R)
-2. **Check the Actions tab** to see if workflows are running
-3. **Wait another minute** and refresh again
-
-The exercise will automatically start once the initialization workflow completes.
+[![Go to Exercise](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-e64600?style=for-the-badge&logo=github&labelColor=442359)](https://github.com/anton-roos/ai-skills-prompt-engineering/issues/1)
+[![Go to Codespace](https://img.shields.io/badge/Go%20to%20Codespace-%E2%86%92-e64600?style=for-the-badge&logo=github&labelColor=442359)](https://codespaces.new/anton-roos/ai-skills-prompt-engineering)
 
 ---
 
